@@ -1,5 +1,9 @@
 # Python-Lectures
 
+# Disclaimer
+
+ This is a fork from the brillian work done by (Kishan)[https://github.com/kishi001] and builds on most of the conepts that they have introduced.
+
 # Introduction
 
 Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. It was created by Guido van Rossum during 1985- 1990. 
@@ -9,6 +13,19 @@ Python is easy to pick as a programming language even if you're completely new t
 # Installation
 
 Mac OS X and Linux comes pre installed with python. Windows users can download python from https://www.python.org/downloads/ .
+
+Please don't use the defualt python from Mac OSX and Linux. Download a fresh install. For beginers, Anaconda is the recommended easy path of installation.
+
+Windows Users. Please make sure to set environent variable after Anaconda installation
+
+By Default Anaconda is installed on the following locatio in windows - 
+
+C:\Users\<<user-name>>\Anaconda3\
+  
+Following entries need to be set - 
+  C:\Users\<<user-name>>\Anaconda3\Scripts\
+  C:\Users\<<user-name>>\Anaconda3\Library\
+  C:\Users\<<user-name>>\Anaconda3\Lib\site-packages\
 
 To install IPython run,
 
@@ -24,6 +41,7 @@ Installing all the necessary libraries might prove troublesome. Anaconda comes p
 Download Anaconda from https://www.anaconda.com/download/
 
 Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.x options are available.
+
 
 # Table of Content
 
