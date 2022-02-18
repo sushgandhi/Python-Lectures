@@ -56,53 +56,53 @@ Installing all the necessary libraries might prove troublesome. Anaconda comes p
 
 1 - Basic Python
 
-  [1.1 - Variable and Operators](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/1-variables-and-Operators-finished.ipynb) 
+  [1.1 - Variable and Operators](https://github.com/sushgandhi/Python-Lectures/blob/master/Basic%20Python/1-variables-and-Operators-finished.ipynb) 
   
-  [1.2 - Built-in functions](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/2-Built-in-functions-finished.ipynb)
+  [1.2 - Built-in functions](https://github.com/sushgandhi/Python-Lectures/blob/master/Basic%20Python/2-Built-in-functions-finished.ipynb)
   
-  [1.3 - Lists, Tuples and Sets](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/3-Lists-Tuples-and-Sets-finished.ipynb)
+  [1.3 - Lists, Tuples and Sets](https://github.com/sushgandhi/Python-Lectures/blob/master/Basic%20Python/3-Lists-Tuples-and-Sets-finished.ipynb)
 
-  [1.4 - Strings and Dictionaries](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/4-Strings-and-Dictionaries-finished.ipynb)
+  [1.4 - Strings and Dictionaries](https://github.com/sushgandhi/Python-Lectures/blob/master/Basic%20Python/4-Strings-and-Dictionaries-finished.ipynb)
 
-  [1.5 - Control Flow Statements](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/5-Control-Flow-Statements-finished.ipynb)
+  [1.5 - Control Flow Statements](https://github.com/sushgandhi/Python-Lectures/blob/master/Basic%20Python/5-Control-Flow-Statements-finished.ipynb)
 
-  [1.6 - Functions](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/6-Functions-finished.ipynb)
+  [1.6 - Functions](https://github.com/sushgandhi/Python-Lectures/blob/master/Basic%20Python/6-Functions-finished.ipynb)
 
-  [1.7 - Classes](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/7-Classes-finished.ipynb)
+  [1.7 - Classes](https://github.com/sushgandhi/Python-Lectures/blob/master/Basic%20Python/7-Classes-finished.ipynb)
 
 ----------------------------------------------------------------
 
 2 - Numpy
   
-  [2.1 - Numpy array creation](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/1-Numpy-array-creation-finished.ipynb)
+  [2.1 - Numpy array creation](https://github.com/sushgandhi/Python-Lectures/blob/master/Numpy/1-Numpy-array-creation-finished.ipynb)
   
-  [2.2 - Datatypes of Numpy arrays](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/2-Datatypes-of-Numpy-arrays-finished.ipynb)
+  [2.2 - Datatypes of Numpy arrays](https://github.com/sushgandhi/Python-Lectures/blob/master/Numpy/2-Datatypes-of-Numpy-arrays-finished.ipynb)
   
-  [2.3 - Array Operations](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/3-Array-Operations-finished.ipynb)
+  [2.3 - Array Operations](https://github.com/sushgandhi/Python-Lectures/blob/master/Numpy/3-Array-Operations-finished.ipynb)
   
-  [2.4 - Array slicing and indexing](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/4-Arrays-slicing-and-indexing-finished.ipynb)
+  [2.4 - Array slicing and indexing](https://github.com/sushgandhi/Python-Lectures/blob/master/Numpy/4-Arrays-slicing-and-indexing-finished.ipynb)
   
-  [2.5 - File Operations](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/5-File-Operations-finished.ipynb)
+  [2.5 - File Operations](https://github.com/sushgandhi/Python-Lectures/blob/master/Numpy/5-File-Operations-finished.ipynb)
   
 ---------------------------------------------------------------- 
   
  3 - Pandas
  
-  [3.1 - Series](https://github.com/kishi001/Python-Lectures/blob/master/Pandas/1-Series-finished.ipynb)
+  [3.1 - Series](https://github.com/sushgandhi/Python-Lectures/blob/master/Pandas/1-Series-finished.ipynb)
   
-  [3.2 - DataFrames](https://github.com/kishi001/Python-Lectures/blob/master/Pandas/2-DataFrames-finished.ipynb)
+  [3.2 - DataFrames](https://github.com/sushgandhi/Python-Lectures/blob/master/Pandas/2-DataFrames-finished.ipynb)
   
-  [3.3 - Missing Data](https://github.com/kishi001/Python-Lectures/blob/master/Pandas/3-Missing-Data-finished.ipynb)
+  [3.3 - Missing Data](https://github.com/sushgandhi/Python-Lectures/blob/master/Pandas/3-Missing-Data-finished.ipynb)
   
-  [3.4 - Descriptive](https://github.com/kishi001/Python-Lectures/blob/master/Pandas/4-Descriptive-finished.ipynb)
+  [3.4 - Descriptive](https://github.com/sushgandhi/Python-Lectures/blob/master/Pandas/4-Descriptive-finished.ipynb)
   
-  [3.5 - Groupby](https://github.com/kishi001/Python-Lectures/blob/master/Pandas/5-Groupby-finished.ipynb)
+  [3.5 - Groupby](https://github.com/sushgandhi/Python-Lectures/blob/master/Pandas/5-Groupby-finished.ipynb)
   
 ---------------------------------------------------------------- 
 
  4 - Matplotlib
   
-  [4.1 Matplotlib Concepts](https://github.com/kishi001/Python-Lectures/blob/master/Matplotlib/1-Matplotlib-Concepts.ipynb)  
+  [4.1 Matplotlib Concepts](https://github.com/sushgandhi/Python-Lectures/blob/master/Matplotlib/1-Matplotlib-Concepts.ipynb)  
  
 ----------------------------------------------------------------
  
@@ -110,9 +110,9 @@ Installing all the necessary libraries might prove troublesome. Anaconda comes p
  
   5.1 - Overview of HTML and CSS (For Discussion)
   
-  [5.2 - Scraping using BeautifulSoup](https://github.com/kishi001/Python-Lectures/blob/master/Website%20Scraping/2-Scraping-using-BeautifulSoup.ipynb)
+  [5.2 - Scraping using BeautifulSoup](https://github.com/sushgandhi/Python-Lectures/blob/master/Website%20Scraping/2-Scraping-using-BeautifulSoup.ipynb)
   
-  [5.3 - BeautifulSoup with Selenium](https://github.com/kishi001/scrape-twitter)
+  [5.3 - BeautifulSoup with Selenium](https://github.com/sushgandhi/scrape-twitter)
   
   5.4 - Overview of Scrapy (For discussion)
  
@@ -120,30 +120,30 @@ Installing all the necessary libraries might prove troublesome. Anaconda comes p
  
  6 - Integration with Databases
   
-  [6.1 - Overview on integration with DBs](https://github.com/kishi001/Python-Lectures/blob/master/Integration%20with%20Databases/Overview-on-integration-with-DBs.ipynb)
+  [6.1 - Overview on integration with DBs](https://github.com/sushgandhi/Python-Lectures/blob/master/Integration%20with%20Databases/Overview-on-integration-with-DBs.ipynb)
   
  ---------------------------------------------------------
  
  7 - Machine Learning
 
 
- [7.1 - Linear Regression](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/Linear-Regression)
+ [7.1 - Linear Regression](https://github.com/sushgandhi/Python-Lectures/tree/master/Machine-Learning/Linear-Regression)
 
- [7.2 - Logistic Regression](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/Logistic-Regression)
+ [7.2 - Logistic Regression](https://github.com/sushgandhi/Python-Lectures/tree/master/Machine-Learning/Logistic-Regression)
  
- [7.3 - K-Nearest-Neighbors](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/K-Nearest-Neighbors)
+ [7.3 - K-Nearest-Neighbors](https://github.com/sushgandhi/Python-Lectures/tree/master/Machine-Learning/K-Nearest-Neighbors)
  
- [7.4 - Decision Tree and Random Forests](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/Decision-Trees-and-Random-Forests)
+ [7.4 - Decision Tree and Random Forests](https://github.com/sushgandhi/Python-Lectures/tree/master/Machine-Learning/Decision-Trees-and-Random-Forests)
  
  [7.5 - Support Vector Machines](http://localhost:8888/tree/Desktop/Python-Lectures/Machine-Learning/Support-Vector-Machines)
  
- [7.6 - K Means Clustering](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/K-Means-Clustering)
+ [7.6 - K Means Clustering](https://github.com/sushgandhi/Python-Lectures/tree/master/Machine-Learning/K-Means-Clustering)
  
- [7.7 - Principal Component Analysis](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/Principal-Component-Analysis)
+ [7.7 - Principal Component Analysis](https://github.com/sushgandhi/Python-Lectures/tree/master/Machine-Learning/Principal-Component-Analysis)
  
- [7.8 - Recommender System](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/Recommender-Systems)
+ [7.8 - Recommender System](https://github.com/sushgandhi/Python-Lectures/tree/master/Machine-Learning/Recommender-Systems)
  
- [7.9 - Natural Language Processing](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/Natural-Language-Processing) 
+ [7.9 - Natural Language Processing](https://github.com/sushgandhi/Python-Lectures/tree/master/Machine-Learning/Natural-Language-Processing) 
   
  -------------------------------------------------------
 
