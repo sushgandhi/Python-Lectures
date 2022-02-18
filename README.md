@@ -16,6 +16,13 @@ Mac OS X and Linux comes pre installed with python. Windows users can download p
 
 Please don't use the defualt python from Mac OSX and Linux. Download a fresh install. For beginers, Anaconda is the recommended easy path of installation.
 
+
+# Anaconda
+
+Download Anaconda from https://www.anaconda.com/download/
+
+Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.x options are available.
+
 Windows Users. Please make sure to set environent variable after Anaconda installation
 
 By Default Anaconda is installed on the following locatio in windows - 
@@ -23,11 +30,13 @@ By Default Anaconda is installed on the following locatio in windows -
 C:\Users\<<user-name>>\Anaconda3\
   
 Following entries need to be set - 
-  C:\Users\<<user-name>>\Anaconda3\Scripts\
-  C:\Users\<<user-name>>\Anaconda3\Library\
-  C:\Users\<<user-name>>\Anaconda3\Lib\site-packages\
+ 
+  C:\Users\<<user-name>>\Anaconda3\Scripts\ </br>
+  C:\Users\<<user-name>>\Anaconda3\Library\ </br>
+  C:\Users\<<user-name>>\Anaconda3\Lib\site-packages\ </br>
 
 To install IPython run,
+<<This is only needed if not using Anaconda>>
 
 $ pip install ipython[all]
 This will install all the necessary dependencies for the notebook, qtconsole, tests etc.
@@ -36,11 +45,11 @@ Installation from unofficial distributions
 
 Installing all the necessary libraries might prove troublesome. Anaconda comes pre packaged with all the necessary python libraries and also IPython.
 
-# Anaconda
-
-Download Anaconda from https://www.anaconda.com/download/
-
-Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.x options are available.
+ 
+# Notebooks
+ Notebooks are one of key piece of Python Ecosystem that enables us to quickly see feedback and iterate.
+ More info - https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html
+ 
 
 
 # Table of Content
